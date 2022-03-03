@@ -22,7 +22,7 @@ header{
     height: 76px;
 }
 .menu{
-    width: 660px;
+    width: 685px;
     display: flex;
     justify-content: space-between;
 }
